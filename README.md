@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
