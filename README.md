@@ -64,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
