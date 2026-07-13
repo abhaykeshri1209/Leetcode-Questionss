@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0287-find-the-duplicate-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0203-remove-linked-list-elements) |
