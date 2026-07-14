@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1791-richest-customer-wealth) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1319-unique-number-of-occurrences) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
