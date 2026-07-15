@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0073-set-matrix-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0086-partition-list) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
