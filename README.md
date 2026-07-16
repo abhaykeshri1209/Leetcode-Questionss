@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -146,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
