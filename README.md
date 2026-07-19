@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0874-backspace-string-compare](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0874-backspace-string-compare) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
