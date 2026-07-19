@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2058-concatenation-of-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0874-backspace-string-compare) |
+| [2058-concatenation-of-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
