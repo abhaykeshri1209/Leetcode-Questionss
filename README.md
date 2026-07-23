@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0735-asteroid-collision) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0874-backspace-string-compare) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0937-online-stock-span) |
 ## Trie
 |  |
