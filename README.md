@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0374-guess-number-higher-or-lower) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0085-maximal-rectangle) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
