@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0682-baseball-game) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0937-online-stock-span) |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
