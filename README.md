@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3859-maximum-product-of-two-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3859-maximum-product-of-two-digits) |
 ## Linked List
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
