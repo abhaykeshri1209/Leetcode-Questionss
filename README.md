@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0735-asteroid-collision) |
+| [0917-boats-to-save-people](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1019-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0628-maximum-product-of-three-numbers) |
+| [0917-boats-to-save-people](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
