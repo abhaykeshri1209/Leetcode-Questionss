@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1894-merge-strings-alternately](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
