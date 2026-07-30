@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2470-removing-stars-from-a-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2481-strictly-palindromic-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2481-strictly-palindromic-number) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
