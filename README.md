@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1019-squares-of-a-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0374-guess-number-higher-or-lower) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
