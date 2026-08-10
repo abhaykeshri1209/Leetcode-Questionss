@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0937-online-stock-span) |
 ## Data Stream
