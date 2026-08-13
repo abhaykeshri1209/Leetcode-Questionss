@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |
