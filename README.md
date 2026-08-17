@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0860-design-circular-queue](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0860-design-circular-queue) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0966-binary-subarrays-with-sum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0382-linked-list-random-node) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
