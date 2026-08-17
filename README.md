@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1185-find-in-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1646-kth-missing-positive-number) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1185-find-in-mountain-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -398,4 +401,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
