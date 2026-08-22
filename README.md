@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2481-strictly-palindromic-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3859-maximum-product-of-two-digits) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
