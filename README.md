@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0680-valid-palindrome-ii) |
+| [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
