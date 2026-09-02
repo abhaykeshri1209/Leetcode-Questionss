@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [4256-construct-uniform-parity-array-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/4256-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3859-maximum-product-of-two-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4256-construct-uniform-parity-array-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/4256-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
