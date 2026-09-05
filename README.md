@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1635-number-of-good-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2481-strictly-palindromic-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0461-hamming-distance) |
+| [1610-xor-operation-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
