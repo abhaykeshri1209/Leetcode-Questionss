@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [4256-construct-uniform-parity-array-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/4256-construct-uniform-parity-array-i) |
+| [4284-smallest-stable-index-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/4284-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2102-find-the-middle-index-in-array) |
+| [4284-smallest-stable-index-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/4284-smallest-stable-index-i) |
 ## Design
 |  |
 | ------- |
