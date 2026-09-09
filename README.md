@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0238-product-of-array-except-self) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -419,16 +421,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
