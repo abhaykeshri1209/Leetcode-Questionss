@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1635-number-of-good-pairs) |
 ## Stack
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1802-number-of-students-unable-to-eat-lunch) |
