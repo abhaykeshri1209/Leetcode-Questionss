@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0874-backspace-string-compare) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0342-power-of-four) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0258-add-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
