@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
 | [2058-concatenation-of-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
 ## Union-Find
 |  |
 | ------- |
