@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0682-baseball-game) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
 ## Interactive
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
