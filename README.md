@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-rectangle-overlap](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -510,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
