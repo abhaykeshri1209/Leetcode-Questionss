@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1117-as-far-from-land-as-possible) |
 | [1185-find-in-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1185-find-in-mountain-array) |
 | [1306-minimum-absolute-difference](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1306-minimum-absolute-difference) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1117-as-far-from-land-as-possible) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1117-as-far-from-land-as-possible) |
 | [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
 ## Union-Find
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
