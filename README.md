@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0367-valid-perfect-square) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2481-strictly-palindromic-number) |
 ## Queue
 |  |
@@ -438,10 +440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -525,4 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0866-rectangle-overlap) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
