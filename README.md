@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1635-number-of-good-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2481-strictly-palindromic-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2752-sum-multiples) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3859-maximum-product-of-two-digits) |
