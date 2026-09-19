@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 ## Newton's Method
 |  |
@@ -562,4 +565,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
