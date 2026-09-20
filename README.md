@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0874-backspace-string-compare) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0382-linked-list-random-node) |
+| [0412-fizz-buzz](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
