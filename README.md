@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3799-unique-3-digit-even-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3799-unique-3-digit-even-numbers) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4256-construct-uniform-parity-array-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/4256-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/4285-smallest-stable-index-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3859-maximum-product-of-two-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3859-maximum-product-of-two-digits) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4245-count-commas-in-range](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/4245-count-commas-in-range) |
