@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
 | [0860-design-circular-queue](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0680-valid-palindrome-ii) |
+| [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
+| [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1319-unique-number-of-occurrences) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0433-minimum-genetic-mutation) |
+| [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
 ## Algorithm X
 |  |
 | ------- |
