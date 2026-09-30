@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0412-fizz-buzz) |
+| [0433-minimum-genetic-mutation](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0210-course-schedule-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0433-minimum-genetic-mutation) |
 ## Algorithm X
 |  |
 | ------- |
