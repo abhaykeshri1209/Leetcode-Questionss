@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0074-search-a-2d-matrix) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0051-n-queens) |
 ## Enumeration
 |  |
 | ------- |
@@ -612,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0127-word-ladder) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
