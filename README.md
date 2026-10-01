@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2388-replace-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2388-replace-elements-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3226-minimum-number-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3226-minimum-number-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2228-watering-plants-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2388-replace-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2388-replace-elements-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3226-minimum-number-game) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2388-replace-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2388-replace-elements-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3799-unique-3-digit-even-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3799-unique-3-digit-even-numbers) |
 ## Divide and Conquer
