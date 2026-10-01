@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0058-length-of-last-word) |
+| [0126-word-ladder-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0387-first-unique-character-in-a-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0142-linked-list-cycle-ii) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0051-n-queens) |
+| [0126-word-ladder-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0126-word-ladder-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
