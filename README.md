@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1806-count-of-matches-in-tournament](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2228-watering-plants-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1501-circle-and-rectangle-overlapping](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1610-xor-operation-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2608-count-the-digits-that-divide-a-number) |
