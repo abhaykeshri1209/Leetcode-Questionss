@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1677-matrix-diagonal-sum) |
+| [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1677-matrix-diagonal-sum) |
+| [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [3226-minimum-number-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
 ## Union-Find
 |  |
@@ -541,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -656,4 +663,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
+| [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
