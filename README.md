@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2470-removing-stars-from-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3811-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2388-replace-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2388-replace-elements-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3799-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
