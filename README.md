@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2388-replace-elements-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3194-find-words-containing-character](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3799-unique-3-digit-even-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3799-unique-3-digit-even-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2470-removing-stars-from-a-string) |
+| [3194-find-words-containing-character](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3194-find-words-containing-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3811-reverse-degree-of-a-string) |
