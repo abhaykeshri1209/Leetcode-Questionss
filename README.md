@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1117-as-far-from-land-as-possible) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Interactive
 |  |
 | ------- |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Newton's Method
 |  |
 | ------- |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -680,9 +683,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
