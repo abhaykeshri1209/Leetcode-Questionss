@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
 | ------- |
