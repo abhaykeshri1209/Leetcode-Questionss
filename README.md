@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1185-find-in-mountain-array) |
 | [1306-minimum-absolute-difference](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1319-unique-number-of-occurrences) |
+| [1325-path-with-maximum-probability](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1325-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [3226-minimum-number-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3226-minimum-number-game) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
+| [1325-path-with-maximum-probability](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Newton's Method
 |  |
@@ -683,11 +686,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
