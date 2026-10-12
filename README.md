@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0983-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0937-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Trie
 |  |
 | ------- |
