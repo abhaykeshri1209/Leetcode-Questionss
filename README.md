@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2470-removing-stars-from-a-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2388-replace-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2388-replace-elements-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3405-count-the-number-of-special-characters-ii) |
