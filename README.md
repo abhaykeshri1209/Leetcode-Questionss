@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1876-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1971-find-if-path-exists-in-graph) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 | [1325-path-with-maximum-probability](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1325-path-with-maximum-probability) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1971-find-if-path-exists-in-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Newton's Method
 |  |
