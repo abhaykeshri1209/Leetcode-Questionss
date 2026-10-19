@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2228-watering-plants-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2228-watering-plants-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3226-minimum-number-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3226-minimum-number-game) |
 | [3859-maximum-product-of-two-digits](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/3859-maximum-product-of-two-digits) |
 ## Linked List
