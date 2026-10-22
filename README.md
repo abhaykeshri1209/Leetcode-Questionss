@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0682-baseball-game) |
+| [0721-accounts-merge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0735-asteroid-collision) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0874-backspace-string-compare) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0966-binary-subarrays-with-sum) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0721-accounts-merge) |
 | [0853-car-fleet](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0853-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0917-boats-to-save-people) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0778-swim-in-rising-water) |
@@ -583,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
@@ -608,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0778-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
