@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0753-open-the-lock](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0753-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0853-car-fleet) |
 | [0860-design-circular-queue](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0827-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1117-as-far-from-land-as-possible) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0827-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0827-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0778-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0801-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0827-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0990-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1073-number-of-enclaves) |
