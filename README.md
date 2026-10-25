@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0990-satisfiability-of-equality-equations) |
+| [0997-find-the-town-judge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0997-find-the-town-judge) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0782-jewels-and-stones) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0966-binary-subarrays-with-sum) |
+| [0997-find-the-town-judge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0997-find-the-town-judge) |
 | [1297-maximum-number-of-balloons](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1370-count-number-of-nice-subarrays) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0922-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0990-satisfiability-of-equality-equations) |
+| [0997-find-the-town-judge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-path-with-maximum-probability](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1325-path-with-maximum-probability) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
