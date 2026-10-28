@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0721-accounts-merge) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0744-network-delay-time) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
