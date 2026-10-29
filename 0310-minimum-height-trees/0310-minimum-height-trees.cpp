@@ -44,12 +44,12 @@ public:
     }
 }
 
-vector<int> ans;
+      vector<int> ans;
 
-while (!q.empty()) {
-    ans.push_back(q.front());
-    q.pop();
-}
+     while (!q.empty()) {
+      ans.push_back(q.front());
+       q.pop();
+    }
 
 return ans;
 
