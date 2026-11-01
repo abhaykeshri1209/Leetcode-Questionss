@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0542-01-matrix) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/0909-stone-game) |
