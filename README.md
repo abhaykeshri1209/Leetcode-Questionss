@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1971-find-if-path-exists-in-graph) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2685-count-the-number-of-complete-components](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1753-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1971-find-if-path-exists-in-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2685-count-the-number-of-complete-components](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2685-count-the-number-of-complete-components) |
 ## Newton's Method
 |  |
 | ------- |
