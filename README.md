@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2469-convert-the-temperature](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2469-convert-the-temperature) |
 | [2481-strictly-palindromic-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/abhaykeshri1209/Leetcode-Questionss/tree/master/2752-sum-multiples) |
